@@ -1,5 +1,4 @@
-# Harshitha S
-Passionate about learning and building. Exploring technology, one project at a time.
+
 <h1 align="center">Hi 👋, I'm Harshitha S</h1>
 
 <p align="center">
@@ -13,6 +12,7 @@ Passionate about learning and building. Exploring technology, one project at a t
 ## 🧑‍💻 About Me
 
 I'm a passionate tech enthusiast currently pursuing a B.Tech in Information Technology (Cloud Computing). I enjoy solving real-world problems through code, building smart systems, and exploring new technologies — from cloud platforms to AI-powered tools.
+Passionate about learning and building. Exploring technology, one project at a time.
 
 - 💡 Currently learning: Microsoft Azure, DevOps, and Generative AI  
 - 🤖 Exploring AI & ML with Python and NLP projects  
