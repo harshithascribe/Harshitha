@@ -54,8 +54,10 @@ B.Tech in Information Technology (Cloud Computing)
 
 ## 📜 Certifications
 
-- 🧠 Machine Learning – Corizo (2024)  
-- ☁️ Cloud Computing – Corizo (2025)  
+- 🧠 Machine Learning – Corizo (2024)
+- 🌐 Oracle Analytics Cloud 2025 Certified Professional (2025)
+- ☁️ Cloud Computing – Corizo (2025)
+- 💻 Software	Engineering	Job	Simulation (2025)
 - 🎨 UI/UX Design – Corizo, SkillUp (2024–25)  
 - 💻 Microsoft Azure Cloud Services – Microsoft (2024)  
 - 🔧 Cloud Data Engineer – Google (2023)  
@@ -74,6 +76,7 @@ B.Tech in Information Technology (Cloud Computing)
 - 🎖️ Code Without Barriers – Microsoft  
 - ⭐ HackerRank: 2★ in Java | 3★ in Python  
 - 🛡️ Stay Safe Online Quiz – G20/GOI (2023)
+- 🌐 GLOBAL EMPLOYABILITY TEST 2025 and achieved 92 PERCENTILE
 
 ---
 
