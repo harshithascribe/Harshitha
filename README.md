@@ -77,6 +77,8 @@ B.Tech in Information Technology (Cloud Computing)
 - ⭐ HackerRank: 2★ in Java | 3★ in Python  
 - 🛡️ Stay Safe Online Quiz – G20/GOI (2023)
 - 🌐 GLOBAL EMPLOYABILITY TEST 2025 and achieved 92 PERCENTILE
+- Participated in TechExpo organised by IIT, Guwahati
+- Participated in TATA Crucible Campus Quiz 2025 organised by the TATA group
 
 ---
 
